@@ -6,6 +6,7 @@ setup(
 	description='test module',
 	author='n-j-p',
 	author_email='example@github.com',
-	packages=['test3'],
-	install_requires=['pandas']
+	#packages=['test3'],
+	install_requires=['pandas'],
+	py_modules=['test3'],
 )
