@@ -1,1 +1,1 @@
-import os
+from .funcs import f
